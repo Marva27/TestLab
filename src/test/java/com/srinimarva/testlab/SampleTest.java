@@ -15,6 +15,7 @@ public class SampleTest {
 	public void openBrowser(){
 		browser = new FirefoxDriver();
 		browser.get("http://www.google.co.in");
+		browser.manage().window().maximize();
 	}
 	
 	@Test
