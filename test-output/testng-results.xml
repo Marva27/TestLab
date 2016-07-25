@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4781" started-at="2016-07-25T14:54:13Z" finished-at="2016-07-25T14:54:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4781" started-at="2016-07-25T14:54:13Z" finished-at="2016-07-25T14:54:18Z">
+      <class name="com.srinimarva.testlab.SampleTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.srinimarva.testlab.SampleTest@46d56d67]" name="openBrowser" is-config="true" duration-ms="4562" started-at="2016-07-25T10:54:13Z" finished-at="2016-07-25T10:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="printTitle()[pri:0, instance:com.srinimarva.testlab.SampleTest@46d56d67]" name="printTitle" duration-ms="118" started-at="2016-07-25T10:54:18Z" finished-at="2016-07-25T10:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.srinimarva.testlab.SampleTest@46d56d67]" name="closeBrowser" is-config="true" duration-ms="81" started-at="2016-07-25T10:54:18Z" finished-at="2016-07-25T10:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.srinimarva.testlab.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
